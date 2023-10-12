@@ -17,7 +17,7 @@ class CreateUsersSeeder extends Seeder
 
                'name'=>'Admin User',
 
-               'email'=>'admin@itsolutionstuff.com',
+               'email'=>'admin@multiauth.com',
 
                'type'=>1,
 
@@ -28,7 +28,7 @@ class CreateUsersSeeder extends Seeder
 
                 'name'=>'Manager User',
  
-                'email'=>'manager@itsolutionstuff.com',
+                'email'=>'manager@multiauth.com',
  
                 'type'=> 2,
  
@@ -39,7 +39,7 @@ class CreateUsersSeeder extends Seeder
 
                 'name'=>'User',
  
-                'email'=>'user@itsolutionstuff.com',
+                'email'=>'user@multiauth.com',
  
                 'type'=>0,
  
